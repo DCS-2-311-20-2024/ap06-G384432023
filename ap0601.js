@@ -116,7 +116,7 @@ function init() {
         std.W,
         std.H/Math.cos(theta),
         std.T),
-      blackMaterial
+      silverMaterial
     )
     standBack.rotation.x = theta;
     standBack.position.set(
